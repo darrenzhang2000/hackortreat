@@ -1,0 +1,8 @@
+[
+    {
+        "email":"retail@gmail.com",
+        "companyName": "Walmart",
+        "EIN": 123456789,
+        "password": "hashedpass"
+    }
+]

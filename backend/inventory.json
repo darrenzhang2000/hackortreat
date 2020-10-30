@@ -1,0 +1,81 @@
+[
+    {
+        "name": "Canned Beans",
+        "category": "Food",
+        "stock": 1000,
+        "sold": 678,
+        "donated": 322,
+        "backorder": 0,
+        "price": 1.79
+
+    },
+    {
+        "name": "Canned Chicken",
+        "category": "Food",
+        "stock": 1000,
+        "sold": 950,
+        "donated": 50,
+        "backorder": 100,
+        "price": 9.98
+
+    },
+    {
+        "name": "Canned Fish",
+        "category": "Food",
+        "stock": 1000,
+        "sold": 800,
+        "donated": 200,
+        "backorder": 0,
+        "price": 5.00
+    },
+    {
+        "name": "Toiler Paper",
+        "category": "Household",
+        "stock": 1000,
+        "sold": 990,
+        "donated": 10,
+        "backorder": 200,
+        "price": 22.25
+
+    },
+    {
+        "name": "Diapers",
+        "category": "Baby",
+        "stock": 500,
+        "sold": 450,
+        "donated": 50,
+        "backorder": 0,
+        "price": 41.23
+
+    },
+    {
+        "name": "Baby Formula",
+        "category": "Baby",
+        "stock": 500,
+        "sold": 300,
+        "donated": 200,
+        "backorder": 0,
+        "price": 129.50
+
+    },
+    {
+        "name": "Hand sanitizer",
+        "category": "Household",
+        "stock": 1000,
+        "sold": 990,
+        "donated": 10,
+        "backorder": 100,
+        "price": 11.99
+
+    },
+    {
+        "name": "Cleaning wipes",
+        "category": "",
+        "stock": 1000,
+        "sold": 678,
+        "donated": 322,
+        "backorder": 0,
+        "price": 18.99
+
+    }
+]s
